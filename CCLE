@@ -1,0 +1,4 @@
+(base) hp@HP-Workstation:~/nanjing01/ccle$ cut -d ',' -f 1-10 Batch_corrected_Expression_Public_24Q4_subsetted.csv >01
+(base) hp@HP-Workstation:~/nanjing01/ccle$ cut -d ',' -f 1000-1100 Batch_corrected_Expression_Public_24Q4_subsetted.csv >02
+(base) hp@HP-Workstation:~/nanjing01/ccle$ cut -d ',' -f 1000-1300 Batch_corrected_Expression_Public_24Q4_subsetted.csv >02
+
